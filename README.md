@@ -11,5 +11,7 @@ This is a project where we used the GAN architecture  to pass black and white ph
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
+![alt text](https://raw.githubusercontent.com/Ciroye/Pix2PixColorizingPhotos/edit/master/predict.png)
+
 
 ## Imagenes de muestra
