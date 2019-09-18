@@ -9,9 +9,7 @@ This is a project where we used the GAN architecture  to pass black and white ph
 
 ## Entrenamiento 🚀
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](training.gif)
 
 ![alt text](https://raw.githubusercontent.com/Ciroye/Pix2PixColorizingPhotos/master/predict.png)
 
-
-## Imagenes de muestra
